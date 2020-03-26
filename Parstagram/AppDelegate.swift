@@ -23,7 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                      configuration.server = "https://infinite-castle-19747.herokuapp.com/parse"
                  })
              )
-        
+       
         return true
     }
 
